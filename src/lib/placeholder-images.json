@@ -1,0 +1,64 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A beautiful arrangement of cosmetic products on a marble surface.",
+      "imageUrl": "https://images.unsplash.com/photo-1587055682234-853183f4523c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb3NtZXRpY3MlMjBmbGF0bGF5fGVufDB8fHx8MTc3MDk1NzUxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cosmetics flatlay"
+    },
+    {
+      "id": "product-1",
+      "description": "A bottle of hydrating facial serum.",
+      "imageUrl": "https://images.unsplash.com/photo-1597931752949-98c74b5b159f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxza2luY2FyZSUyMGJvdHRsZXxlbnwwfHx8fDE3NzA5NzYzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skincare bottle"
+    },
+    {
+      "id": "product-2",
+      "description": "A jar of rejuvenating night cream.",
+      "imageUrl": "https://images.unsplash.com/photo-1606424359367-af69e3da9832?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmYWNlJTIwY3JlYW18ZW58MHx8fHwxNzcwOTAzOTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "face cream"
+    },
+    {
+      "id": "product-3",
+      "description": "A tube of vibrant red lipstick.",
+      "imageUrl": "https://images.unsplash.com/photo-1625093742435-6fa192b6fb10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaXBzdGlja3xlbnwwfHx8fDE3NzA5ODQ0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lipstick"
+    },
+    {
+      "id": "product-4",
+      "description": "A palette of eyeshadow with various colors.",
+      "imageUrl": "https://images.unsplash.com/photo-1547934659-7fa699ef3ce0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxleWVzaGFkb3clMjBwYWxldHRlfGVufDB8fHx8MTc3MDk3OTM1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "eyeshadow palette"
+    },
+    {
+      "id": "product-5",
+      "description": "A bottle of cleansing facial oil.",
+      "imageUrl": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjbGVhbnNpbmclMjBvaWx8ZW58MHx8fHwxNzcwOTg0NDM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cleansing oil"
+    },
+    {
+      "id": "product-6",
+      "description": "A bottle of foundation.",
+      "imageUrl": "https://images.unsplash.com/photo-1512207576147-99bc3066b621?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmb3VuZGF0aW9uJTIwYm90dGxlfGVufDB8fHx8MTc3MDk3OTM1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "foundation bottle"
+    },
+    {
+      "id": "product-7",
+      "description": "A tube of volumizing mascara.",
+      "imageUrl": "https://images.unsplash.com/photo-1508557446787-73acf2380f97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bWFzY2FyYXxlbnwwfHx8fDE3NzA5ODQ0MzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mascara"
+    },
+    {
+      "id": "product-8",
+      "description": "A refreshing facial mist.",
+      "imageUrl": "https://images.unsplash.com/photo-1763633924562-1f47a071530a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYWNpYWwlMjBtaXN0fGVufDB8fHx8MTc3MDk4NDQzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "facial mist"
+    },
+    {
+      "id": "skincare-quiz-bg",
+      "description": "Abstract background with soft pastel colors and textures.",
+      "imageUrl": "https://images.unsplash.com/photo-1612293025896-7200cc87e540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwYXN0ZWwlMjB0ZXh0dXJlfGVufDB8fHx8MTc3MDk4NDQzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pastel texture"
+    }
+  ]
+}
